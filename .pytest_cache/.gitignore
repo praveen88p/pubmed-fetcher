@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+__pycache__/
+.venv/
+.idea/
+.vscode/
+poetry.lock
+*.pyc

@@ -1,0 +1,3 @@
+[
+  "tests/test_fetcher.py::TestPubMedFetcher::test_fetch_papers"
+]
